@@ -1,5 +1,8 @@
 # Utility-Bill-Application-Using-ASP-.NET-MVC
 The application includes user and admin roles with various features and permissions. 
+![image](https://github.com/Harshetamahajan/Utility-Bill-Application-Using-ASP-.NET-MVC/assets/91557855/51c76861-250b-450e-a189-f8d21ae0e50a)
+
+
 # User Functionalities 
 1. Home Screen:
 Provides an overview of the application and its features.
@@ -43,8 +46,6 @@ Admin can generate electricity bills for users.
 Ability to set bill amount and due dates.
 7. Manage Bill Details:
 Admin can edit, delete, and update bill details.
-![image](https://github.com/Harshetamahajan/Utility-Bill-Application-Using-ASP-.NET-MVC/assets/91557855/51c76861-250b-450e-a189-f8d21ae0e50a)
-
 
 
 
